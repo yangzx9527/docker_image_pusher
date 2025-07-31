@@ -1,8 +1,6 @@
 #支持私库
-infiniflow/ragflow:v0.16.0
---platform=linux/arm64
-infiniflow/infinity:v0.6.0-dev3
---platform=linux/arm64
+infiniflow/ragflow:v0.19.0
+--platform=linux/x86_64
 elasticsearch:8.11.3
 --platform=linux/arm64
 mysql:8.0.39
